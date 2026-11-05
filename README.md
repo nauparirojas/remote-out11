@@ -1,6 +1,6 @@
 # Práctica de Laboratorio - Semana 10: Backend Node.js y MySQL
 **Asignatura:** Desarrollo de Aplicaciones Web (IS093A)  
-**Estudiante:** Daniel  
+**Estudiante:** Ñaupari Rojas Jhosep Amed 
 **Repositorio Remoto:** https://github.com/nauparirojas/remote-out11
 
 ## Descripción del Proyecto
